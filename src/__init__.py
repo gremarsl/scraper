@@ -46,10 +46,10 @@ def login():
     input = soup.findAll(attrs={"id": "user-mail"})
     print(input)
 
+
 def main():
     login()
 
 
-
-if __name__=="__main__":
+if __name__ == "__main__":
     main()
