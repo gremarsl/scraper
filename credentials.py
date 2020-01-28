@@ -1,2 +1,2 @@
-loginMail= "sophia.wegers@googlemail.com"
-password= "WsnSaEbay"
+loginMail= "max.mustermann@googlemail.com"
+password= "password123"
